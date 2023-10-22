@@ -1,0 +1,1236 @@
+{
+    "wines": [{
+        "id": 1,
+        "name": "Château Margaux",
+        "year": 2015,
+        "type": "Red",
+        "region": "Bordeaux",
+        "country": "France",
+        "grape_varieties": [
+          "Cabernet Sauvignon",
+          "Merlot",
+          "Cabernet Franc",
+          "Petit Verdot"
+        ],
+        "rating": 4.8,
+        "price": 250,
+        "quantity": 15,
+        "image_url": "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/34/2017/11/margaux-2015-limited-release.jpg",
+        "details": "Château Margaux is a renowned red wine from Bordeaux, France. It is known for its exceptional quality and elegance. This wine is made from a blend of Cabernet Sauvignon, Merlot, Cabernet Franc, and Petit Verdot grapes. It has a rich flavor profile with notes of black fruits, spices, and floral aromas. The 2015 vintage is highly regarded and has received excellent ratings from wine critics."
+      },
+      {
+        "id": 2,
+        "name": "Chardonnay Reserve",
+        "year": 2019,
+        "type": "White",
+        "region": "Napa Valley",
+        "country": "United States",
+        "grape_varieties": [
+          "Chardonnay"
+        ],
+        "rating": 4.7,
+        "price": 35.99,
+        "quantity": 14,
+        "image_url": "https://cdn-icjal.nitrocdn.com/EiGbuHZAAbXCnzpINRtyYKQeyNOKouhs/assets/images/optimized/rev-4b09448/wp-content/uploads/Chardonnay-Reserve-1.jpg",
+        "details": "This Chardonnay Reserve is known for its rich flavors and creamy texture. It exhibits notes of ripe apple, vanilla, and a hint of oak. Pair it with seafood or creamy pasta dishes."
+      },
+      {
+        "id": 3,
+        "name": "Sassicaia",
+        "year": 2016,
+        "type": "Red",
+        "region": "Tuscany",
+        "country": "Italy",
+        "grape_varieties": [
+          "Cabernet Sauvignon",
+          "Cabernet Franc"
+        ],
+        "rating": 4.7,
+        "price": 200,
+        "quantity": 13,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMp6R04hnvUdeMuJLvlXafVxJNNSo7bwVuW6JE27lj9szwekR9eaf6HUWaqxfy4U0o_8&usqp=CAU",
+        "details": "Sassicaia is an iconic red wine from Tuscany, Italy. It is known for its bold and complex character. This wine is primarily made from Cabernet Sauvignon and Cabernet Franc grapes. It exhibits intense flavors of dark fruits, tobacco, and spices. The 2016 vintage is highly regarded and offers a great balance of fruitiness and structure."
+      },
+      {
+        "id": "4",
+        "name": "Sunset Blush",
+        "year": 2020,
+        "type": "Rose",
+        "region": "Napa Valley",
+        "country": "United States",
+        "grape_varieties": [
+          "Grenache",
+          "Syrah"
+        ],
+        "rating": 4.2,
+        "price": 25.99,
+        "quantity": 12,
+        "image_url": "https://cdn11.bigcommerce.com/s-jzned6vh8p/images/stencil/500x659/products/140/1953/Sunset_Blush_0133_1__39581.1643209245.jpg?c=2",
+        "details": "Sunset Blush is a refreshing rose wine with a perfect balance of fruity and floral notes. It has a beautiful pink color and a crisp, dry finish. The blend of Grenache and Syrah grapes gives it a unique flavor profile with hints of strawberries and citrus. Enjoy this wine chilled on a warm summer evening."
+      },
+      {
+        "id": 5,
+        "name": "Sauvignon Blanc",
+        "year": 2020,
+        "type": "White",
+        "region": "Marlborough",
+        "country": "New Zealand",
+        "grape_varieties": [
+          "Sauvignon Blanc"
+        ],
+        "rating": 4.5,
+        "price": 19.99,
+        "quantity": 11,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBoXwsePdGYoa0lyo8Kcuiqd1914BVcR35EwYn8QFD4bQiH4mFC-QARVF75qteu1QDCJw&usqp=CAU",
+        "details": "This Sauvignon Blanc from Marlborough showcases vibrant citrus flavors, with hints of tropical fruits and a crisp acidity. It pairs well with salads, seafood, or goat cheese."
+      },
+      {
+        "id": 6,
+        "name": "Opus One",
+        "year": 2014,
+        "type": "Red",
+        "region": "Napa Valley",
+        "country": "United States",
+        "grape_varieties": [
+          "Cabernet Sauvignon",
+          "Merlot",
+          "Cabernet Franc",
+          "Malbec",
+          "Petit Verdot"
+        ],
+        "rating": 4.6,
+        "price": 300,
+        "quantity": 10,
+        "image_url": "https://images.ctfassets.net/zpx0hfp3jryq/7s2XFt8ssVIxAruwoWCeuk/5c8345610ad373f472ec1f0e21e2da3d/606666fc83da6e3b7dbf64fb_Opus-One-3.jpg?fm=jpg&fl=progressive",
+        "details": "Opus One is a prestigious red wine from Napa Valley, United States. It is a Bordeaux-style blend made from a combination of Cabernet Sauvignon, Merlot, Cabernet Franc, Malbec, and Petit Verdot grapes. This wine showcases a harmonious balance of flavors, with rich dark fruit notes, hints of oak, and velvety tannins. The 2014 vintage is highly acclaimed and offers a remarkable aging potential."
+      },
+      {
+        "id": 7,
+        "name": "Vintage Celebration",
+        "year": 2015,
+        "type": "Sparkling",
+        "region": "Napa Valley",
+        "country": "United States",
+        "grape_varieties": [
+          "Chardonnay",
+          "Pinot Noir"
+        ],
+        "rating": 4.5,
+        "price": 39.99,
+        "quantity": 9,
+        "image_url": "https://www.mcleishestatewines.com.au/wp-content/uploads/2019/01/domcherry-8228-768x511.jpg",
+        "details": "A delightful sparkling wine with crisp flavors and a creamy texture. It offers notes of citrus, green apple, and toasted brioche. Perfect for any celebration."
+      },
+      {
+        "id": 8,
+        "name": "Riesling Spätlese",
+        "year": 2018,
+        "type": "White",
+        "region": "Mosel",
+        "country": "Germany",
+        "grape_varieties": [
+          "Riesling"
+        ],
+        "rating": 4.8,
+        "price": 24.99,
+        "quantity": 8,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spatlese_Riesling_from_Mosel.jpg/1200px-Spatlese_Riesling_from_Mosel.jpg",
+        "details": "This Riesling Spätlese is a classic German wine with a delicate balance of sweetness and acidity. It exhibits flavors of green apple, peach, and mineral notes. Enjoy it with spicy cuisine or as an aperitif."
+      },
+      {
+        "id": "9",
+        "name": "Rosé d'Amour",
+        "year": 2021,
+        "type": "Rose",
+        "region": "Provence",
+        "country": "France",
+        "grape_varieties": [
+          "Cinsault",
+          "Grenache",
+          "Mourvèdre"
+        ],
+        "rating": 4.8,
+        "price": 32.5,
+        "quantity": 7,
+        "image_url": "https://theshout.com.au/national-liquor-news/wp-content/uploads/sites/3/2018/09/CalabriaRose.jpg",
+        "details": "Rosé d'Amour is an exquisite French rose wine that captures the essence of Provence. Made from a blend of Cinsault, Grenache, and Mourvèdre grapes, it showcases delicate flavors of red berries, peach, and a touch of herbs. With its pale salmon color and elegant aroma, this wine pairs perfectly with seafood and light dishes."
+      },
+      {
+        "id": 10,
+        "name": "Blanc de Blancs",
+        "year": 2018,
+        "type": "Sparkling",
+        "region": "Champagne",
+        "country": "France",
+        "grape_varieties": [
+          "Chardonnay"
+        ],
+        "rating": 4.8,
+        "price": 59.99,
+        "quantity": 6,
+        "image_url": "https://images.vivino.com/labels/S55SulzFSFK5L9QTWQLQEw.jpg",
+        "details": "An elegant and refined Champagne with fine bubbles. It showcases delicate flavors of white flowers, citrus zest, and mineral notes. A true expression of Chardonnay."
+      },
+      {
+        "id": 11,
+        "name": "Rosé Celebration",
+        "year": 2020,
+        "type": "Sparkling",
+        "region": "Marlborough",
+        "country": "New Zealand",
+        "grape_varieties": [
+          "Pinot Noir",
+          "Chardonnay"
+        ],
+        "rating": 4.3,
+        "price": 29.99,
+        "quantity": 5,
+        "image_url": "https://cheers.com.np/uploads/products/8001691576216501541696272095330997154105.png",
+        "details": "A vibrant and refreshing sparkling rosé with enticing aromas of strawberries and cream. It delivers a palate of ripe red berries, citrus, and a hint of spice."
+      },
+      {
+        "id": 12,
+        "name": "Malbec",
+        "year": 2019,
+        "type": "Red",
+        "region": "Mendoza",
+        "country": "Argentina",
+        "grape_varieties": [
+          "Malbec"
+        ],
+        "rating": 4.7,
+        "price": 55,
+        "quantity": 4,
+        "image_url": "https://cdn.slowine.com/1665366976242.jpeg",
+        "details": "Malbec is a popular red wine variety from the Mendoza region of Argentina. It is known for its deep purple color and full-bodied character. Malbec wines typically exhibit rich flavors of dark fruits, such as blackberry and plum, along with hints of cocoa and spice. The 2019 vintage of Malbec offers a balance of fruitiness and structure, with smooth tannins and a lingering finish."
+      },
+      {
+        "id": 13,
+        "name": "Sancerre Blanc",
+        "year": 2021,
+        "type": "White",
+        "region": "Loire Valley",
+        "country": "France",
+        "grape_varieties": [
+          "Sauvignon Blanc"
+        ],
+        "rating": 4.6,
+        "price": 29.99,
+        "quantity": 3,
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/5fe36ada905ff0090588c249/0x0.jpg?format=jpg&width=1200",
+        "details": "This Sancerre Blanc is a crisp and elegant wine with lively acidity and refreshing flavors of citrus, green apple, and mineral notes. It pairs well with seafood, goat cheese, or asparagus."
+      },
+      {
+        "id": 14,
+        "name": "Barolo",
+        "year": 2012,
+        "type": "Red",
+        "region": "Piedmont",
+        "country": "Italy",
+        "grape_varieties": [
+          "Nebbiolo"
+        ],
+        "rating": 4.7,
+        "price": 150,
+        "quantity": 15,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cascin_Adelaide_Barolo_%26_decanter.jpg",
+        "details": "Barolo is a prestigious red wine from the Piedmont region of Italy. It is made exclusively from Nebbiolo grapes, which contribute to its distinctive flavor profile. Barolo is known for its bold tannins, high acidity, and complex aromas of cherries, roses, and spices. The 2012 vintage offers an excellent balance between fruitiness and structure."
+      },
+      {
+        "id": 15,
+        "name": "Golden Bubbles",
+        "year": 2017,
+        "type": "Sparkling",
+        "region": "Sonoma County",
+        "country": "United States",
+        "grape_varieties": [
+          "Pinot Noir",
+          "Chardonnay"
+        ],
+        "rating": 4.6,
+        "price": 49.99,
+        "quantity": 2,
+        "image_url": "https://images.vivino.com/labels/QROVKA7BQY2Iwx0U1fvB7A.jpg",
+        "details": "An opulent sparkling wine with a golden hue. It offers flavors of ripe stone fruits, honey, and toasted almonds. A luxurious choice for special occasions."
+      },
+      {
+        "id": "16",
+        "name": "Bella Rosa",
+        "year": 2019,
+        "type": "Rose",
+        "region": "Tuscany",
+        "country": "Italy",
+        "grape_varieties": [
+          "Sangiovese",
+          "Merlot"
+        ],
+        "rating": 4.5,
+        "price": 21.75,
+        "quantity": 1,
+        "image_url": "https://www.ferrucciodeiana.it/upload/web-bellarosa-bottiglia-2019_5e73b6243dc79.png",
+        "details": "Bella Rosa is a delightful Italian rose wine crafted in the heart of Tuscany. This charming blend of Sangiovese and Merlot grapes offers a rich and vibrant flavor profile with notes of cherries, strawberries, and a hint of spice. Its velvety texture and medium body make it an excellent choice for both casual sipping and pairing with Italian cuisine."
+      },
+      {
+        "id": 17,
+        "name": "Vermentino",
+        "year": 2020,
+        "type": "White",
+        "region": "Tuscany",
+        "country": "Italy",
+        "grape_varieties": [
+          "Vermentino"
+        ],
+        "rating": 4.3,
+        "price": 22.99,
+        "quantity": 15,
+        "image_url": "https://i0.wp.com/temeculawineratings.com/wp-content/uploads/2020/11/ponte-2019-vermentino.jpg?fit=3247%2C2435",
+        "details": "This Vermentino from Tuscany offers a crisp and aromatic profile, with flavors of citrus, pear, and a hint of Mediterranean herbs. It pairs well with seafood, salads, or light pasta dishes."
+      },
+      {
+        "id": 18,
+        "name": "Rioja Reserva",
+        "year": 2010,
+        "type": "Red",
+        "region": "Rioja",
+        "country": "Spain",
+        "grape_varieties": [
+          "Tempranillo"
+        ],
+        "rating": 4.6,
+        "price": 80,
+        "quantity": 14,
+        "image_url": "https://c8.alamy.com/comp/HGTFB5/spanish-rioja-wine-campo-viejo-bottle-HGTFB5.jpg",
+        "details": "Rioja Reserva is a renowned red wine from the Rioja region of Spain. It is primarily made from the Tempranillo grape variety, which imparts rich flavors and aromas. Rioja Reserva wines are aged for a minimum of three years, with at least one year in oak barrels. The 2010 vintage showcases notes of red fruits, vanilla, and spice, with a smooth and velvety texture."
+      },
+      {
+        "id": 19,
+        "name": "Prosecco Dolce",
+        "year": 2021,
+        "type": "Sparkling",
+        "region": "Veneto",
+        "country": "Italy",
+        "grape_varieties": [
+          "Glera"
+        ],
+        "rating": 4.2,
+        "price": 24.99,
+        "quantity": 13,
+        "image_url": "https://www.coop.ch/img/produkte/280_450/RGB/3170244_001.jpg?_=1672098273376",
+        "details": "A charming and fruity Prosecco with a touch of sweetness. It displays flavors of ripe pear, green apple, and floral notes. Enjoy it as an aperitif or for brunch."
+      },
+      {
+        "id": 20,
+        "name": "Gruner Veltliner",
+        "year": 2019,
+        "type": "White",
+        "region": "Wachau",
+        "country": "Austria",
+        "grape_varieties": [
+          "Gruner Veltliner"
+        ],
+        "rating": 4.4,
+        "price": 27.99,
+        "quantity": 12,
+        "image_url": "https://ru.inshaker.com/uploads/article/cover/2312/wide_1602512745-4.jpg",
+        "details": "This Gruner Veltliner from Wachau showcases a vibrant acidity and flavors of green apple, white pepper, and a touch of citrus. It pairs well with Asian cuisine, white meats, or vegetarian dishes."
+      },
+      {
+        "id": 21,
+        "name": "Summer Breeze",
+        "year": 2022,
+        "type": "Rose",
+        "region": "Marlborough",
+        "country": "New Zealand",
+        "grape_varieties": [
+          "Pinot Noir"
+        ],
+        "rating": 4.6,
+        "price": 18.99,
+        "quantity": 11,
+        "image_url": "https://www.mcclaincellars.com/wp-content/uploads/2018/06/Summerbreeze-HERO.jpg",
+        "details": "Summer Breeze is a vibrant and lively rose wine hailing from Marlborough, New Zealand. It showcases the expressive flavors of Pinot Noir, with juicy red berry notes and a hint of floral undertones. This refreshing wine is perfect for warm summer days and pairs wonderfully with fresh salads and grilled seafood."
+      },
+      {
+        "id": 22,
+        "name": "Tignanello",
+        "year": 2013,
+        "type": "Red",
+        "region": "Tuscany",
+        "country": "Italy",
+        "grape_varieties": [
+          "Sangiovese",
+          "Cabernet Sauvignon",
+          "Cabernet Franc"
+        ],
+        "rating": 4.8,
+        "price": 180,
+        "quantity": 10,
+        "image_url": "https://images.squarespace-cdn.com/content/v1/55257c9de4b0c26feadc169c/1567787215150-LCDLPUVF53Z2Y03O6AU7/bc73c676b704145ad2e45.jpg",
+        "details": "Tignanello is an acclaimed red wine from Tuscany, Italy. It is a blend of Sangiovese, Cabernet Sauvignon, and Cabernet Franc grapes, offering a unique flavor profile. Tignanello is known for its rich and concentrated fruit flavors, complemented by hints of spice, tobacco, and oak. The 2013 vintage is highly regarded for its exceptional quality and aging potential."
+      },
+      {
+        "id": 23,
+        "name": "Albariño",
+        "year": 2020,
+        "type": "White",
+        "region": "Rías Baixas",
+        "country": "Spain",
+        "grape_varieties": [
+          "Albariño"
+        ],
+        "rating": 4.5,
+        "price": 18.99,
+        "quantity": 9,
+        "image_url": "https://static.independent.co.uk/2021/03/24/16/Casal%20de%20Vendoleza.jpg",
+        "details": "This Albariño from Rías Baixas is a refreshing and aromatic wine with flavors of peach, apricot, and a zesty citrus finish. It pairs well with seafood, shellfish, or fresh salads."
+      },
+      {
+        "id": 24,
+        "name": "Malbec Reserva",
+        "year": 2017,
+        "type": "Red",
+        "region": "Mendoza",
+        "country": "Argentina",
+        "grape_varieties": [
+          "Malbec"
+        ],
+        "rating": 4.5,
+        "price": 60,
+        "quantity": 8,
+        "image_url": "https://www.wine-searcher.com/images/labels/20/38/10532038.jpg",
+        "details": "Malbec Reserva is a popular red wine from the Mendoza region of Argentina. It showcases the full-bodied and fruity characteristics of the Malbec grape variety. This wine offers flavors of ripe blackberries, plum, and spices, with smooth tannins and a lingering finish. The 2017 vintage is known for its approachability and excellent value for money."
+      },
+      {
+        "id": 25,
+        "name": "Brut Reserve",
+        "year": 2016,
+        "type": "Sparkling",
+        "region": "Trento",
+        "country": "Italy",
+        "grape_varieties": [
+          "Chardonnay",
+          "Pinot Noir"
+        ],
+        "rating": 4.7,
+        "price": 34.99,
+        "quantity": 7,
+        "image_url": "https://cdn.shopify.com/s/files/1/0571/1213/3782/products/RESERVE_BRUT.png?v=1643037811",
+        "details": "A classic Trentodoc sparkling wine with fine bubbles and a creamy mousse. It exhibits flavors of citrus, white peach, and a hint of hazelnut. A versatile choice for any occasion."
+      },
+      {
+        "id": 26,
+        "name": "Blushing Lily",
+        "year": 2020,
+        "type": "Rose",
+        "region": "Languedoc",
+        "country": "France",
+        "grape_varieties": [
+          "Cinsault",
+          "Syrah"
+        ],
+        "rating": 4.3,
+        "price": 14.5,
+        "quantity": 6,
+        "image_url": "https://cdn.blossominggifts.com/media/catalog/product/cache/7/image/450x450/9df78eab33525d08d6e5fb8d27136e95/a/d/add_ons_la_source_rose.webp",
+        "details": "Blushing Lily is a delightful French rose wine from the Languedoc region. Made primarily from Cinsault and Syrah grapes, it offers a beautiful pink hue and a bouquet of fresh red berries and aromatic flowers. With its crisp acidity and balanced flavors, this wine is an excellent companion for picnics and light-hearted gatherings."
+      },
+      {
+        "id": 27,
+        "name": "Viognier",
+        "year": 2019,
+        "type": "White",
+        "region": "Condrieu",
+        "country": "France",
+        "grape_varieties": [
+          "Viognier"
+        ],
+        "rating": 4.7,
+        "price": 42.99,
+        "quantity": 5,
+        "image_url": "https://order.sulavineyards.com/wp-content/uploads/2021/09/viognier.png",
+        "details": "This Viognier from Condrieu is a full-bodied and aromatic wine with rich flavors of apricot, honey, and a hint of spice. It pairs well with rich and creamy dishes, roasted poultry, or lobster."
+      },
+      {
+        "id": 28,
+        "name": "Gigondas",
+        "year": 2016,
+        "type": "Red",
+        "region": "Rhône Valley",
+        "country": "France",
+        "grape_varieties": [
+          "Grenache",
+          "Syrah",
+          "Mourvèdre"
+        ],
+        "rating": 4.7,
+        "price": 65,
+        "quantity": 4,
+        "image_url": "https://produits.bienmanger.com/44548-0w470h470_Famille_Perrin_Gille_Aoc_Gigondas_Red_Wine.jpg",
+        "details": "Gigondas is a renowned red wine from the Rhône Valley in France. It is a blend primarily composed of Grenache, Syrah, and Mourvèdre grapes. Gigondas wines offer a bold and full-bodied profile with flavors of dark fruits, spices, and herbs. The 2016 vintage is highly regarded for its rich complexity and excellent aging potential."
+      },
+      {
+        "id": 29,
+        "name": "Pinot Gris",
+        "year": 2020,
+        "type": "White",
+        "region": "Alsace",
+        "country": "France",
+        "grape_varieties": [
+          "Pinot Gris"
+        ],
+        "rating": 4.2,
+        "price": 21.99,
+        "quantity": 3,
+        "image_url": "https://www.radelan.com/wp-content/uploads/2019/10/JUST-ROBERTO-PINOT-GRIGIO.png",
+        "details": "This Pinot Gris from Alsace showcases a rich and full-bodied character with flavors of pear, apple, and a touch of honey. It pairs well with roasted poultry, creamy pasta dishes, or mild cheeses."
+      },
+      {
+        "id": 30,
+        "name": "Cremant Rosé",
+        "year": 2019,
+        "type": "Sparkling",
+        "region": "Loire Valley",
+        "country": "France",
+        "grape_varieties": [
+          "Cabernet Franc",
+          "Chenin Blanc"
+        ],
+        "rating": 4.4,
+        "price": 27.99,
+        "quantity": 2,
+        "image_url": "https://www.cave-turckheim.com/93-large_default/cremant-rose-brut-bio.jpg",
+        "details": "A delightful rosé sparkling wine with a salmon-pink color. It reveals flavors of wild strawberries, red currants, and a touch of spice. A versatile and food-friendly choice."
+      },
+      {
+        "id": 31,
+        "name": "Côtes du Rhône",
+        "year": 2018,
+        "type": "Red",
+        "region": "Rhône Valley",
+        "country": "France",
+        "grape_varieties": [
+          "Grenache",
+          "Syrah",
+          "Mourvèdre"
+        ],
+        "rating": 4.6,
+        "price": 40,
+        "quantity": 1,
+        "image_url": "https://experiencetheworldofwines.in/wp-content/uploads/2021/08/DELAS-COTES-DU-RHONE-ROUGE.jpg",
+        "details": "Côtes du Rhône is a well-known red wine from the Rhône Valley in France. It is a blend primarily composed of Grenache, Syrah, and Mourvèdre grapes. Côtes du Rhône wines typically offer flavors of red berries, spices, and herbs, with a medium-bodied profile and approachable tannins. The 2018 vintage is praised for its vibrant fruit character and great value."
+      },
+      {
+        "id": 32,
+        "name": "Pink Paradise",
+        "year": 2021,
+        "type": "Rose",
+        "region": "Mendoza",
+        "country": "Argentina",
+        "grape_varieties": [
+          "Malbec"
+        ],
+        "rating": 4.7,
+        "price": 26.99,
+        "quantity": 15,
+        "image_url": "https://s2.wine.style/images_gen/194/194896/0_0_orig.jpg",
+        "details": "Pink Paradise is an enchanting Argentinian rose wine produced in the Mendoza region. Crafted from luscious Malbec grapes, it boasts a beautiful salmon-pink color and seductive aromas of ripe strawberries and floral hints. This wine's elegant structure and velvety texture make it an ideal choice for romantic evenings or pairing with grilled meats."
+      },
+      {
+        "id": 33,
+        "name": "Chenin Blanc",
+        "year": 2019,
+        "type": "White",
+        "region": "Stellenbosch",
+        "country": "South Africa",
+        "grape_varieties": [
+          "Chenin Blanc"
+        ],
+        "rating": 4.4,
+        "price": 17.99,
+        "quantity": 14,
+        "image_url": "https://order.sulavineyards.com/wp-content/uploads/2021/05/Chenin-Blanc-1.png",
+        "details": "This Chenin Blanc from Stellenbosch offers a vibrant acidity and flavors of green apple, tropical fruits, and a hint of honey. It pairs well with seafood, spicy dishes, or creamy cheeses."
+      },
+      {
+        "id": 34,
+        "name": "Zinfandel",
+        "year": 2015,
+        "type": "Red",
+        "region": "California",
+        "country": "United States",
+        "grape_varieties": [
+          "Zinfandel"
+        ],
+        "rating": 4.5,
+        "price": 35,
+        "quantity": 13,
+        "image_url": "https://order.sulavineyards.com/wp-content/uploads/2021/09/zinfandel.png",
+        "details": "Zinfandel is a popular red wine variety in California, United States. It is known for its bold and robust character, showcasing flavors of blackberries, cherries, and spices. Zinfandel wines often have a higher alcohol content and can be enjoyed with hearty dishes. The 2015 vintage offers a good balance of fruitiness and structure."
+      },
+      {
+        "id": 35,
+        "name": "Gavi",
+        "year": 2020,
+        "type": "White",
+        "region": "Piedmont",
+        "country": "Italy",
+        "grape_varieties": [
+          "Cortese"
+        ],
+        "rating": 4.6,
+        "price": 24.99,
+        "quantity": 12,
+        "image_url": "https://threefeathersestate.com/wp-content/uploads/2019/05/three-feathers-2018-Blanc-de-Noirs.jpg",
+        "details": "This Gavi made from the Cortese grape is a crisp and refreshing wine with flavors of citrus, pear, and a hint of almond. It pairs well with seafood, light appetizers, or vegetarian dishes."
+      },
+      {
+        "id": 36,
+        "name": "Blanc de Noirs",
+        "year": 2014,
+        "type": "Sparkling",
+        "region": "California",
+        "country": "United States",
+        "grape_varieties": [
+          "Pinot Noir"
+        ],
+        "rating": 4.9,
+        "price": 79.99,
+        "quantity": 11,
+        "image_url": "https://www.vinceremos.co.uk/wp-content/uploads/2019/08/023.jpg",
+        "details": "An exceptional Blanc de Noirs with rich flavors and a creamy texture. It showcases layers of red berries, brioche, and a hint of spice. A wine of finesse and complexity."
+      },
+      {
+        "id": 37,
+        "name": "Rosé de la Luna",
+        "year": 2018,
+        "type": "Rose",
+        "region": "Rioja",
+        "country": "Spain",
+        "grape_varieties": [
+          "Garnacha",
+          "Tempranillo"
+        ],
+        "rating": 4.4,
+        "price": 19.75,
+        "quantity": 10,
+        "image_url": "https://www.closdesmillesimes.com/client/cache/produit/600_______topcenter_635b0954_11966.jpg",
+        "details": "Rosé de la Luna is a captivating Spanish rose wine that captures the essence of the Rioja region. With a blend of Garnacha and Tempranillo grapes, it exhibits flavors of red cherries, raspberries, and a touch of vanilla. This wine's balanced acidity and medium body make it a versatile choice for pairing with a wide range of dishes."
+      },
+      {
+        "id": 38,
+        "name": "Saint-Émilion",
+        "year": 2016,
+        "type": "Red",
+        "region": "Bordeaux",
+        "country": "France",
+        "grape_varieties": [
+          "Merlot",
+          "Cabernet Franc"
+        ],
+        "rating": 4.7,
+        "price": 85,
+        "quantity": 9,
+        "image_url": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/hfb/hd4/8809303736350.png",
+        "details": "Saint-Émilion is a renowned red wine from the Bordeaux region of France. It is primarily made from Merlot and Cabernet Franc grapes. Saint-Émilion wines are known for their elegant and refined character, with flavors of black fruits, cedar, and spices. The 2016 vintage is highly regarded for its exceptional quality and age-worthiness."
+      },
+      {
+        "id": 39,
+        "name": "Muscadet",
+        "year": 2018,
+        "type": "White",
+        "region": "Loire Valley",
+        "country": "France",
+        "grape_varieties": [
+          "Melon de Bourgogne"
+        ],
+        "rating": 4.3,
+        "price": 15.99,
+        "quantity": 8,
+        "image_url": "https://images.ctfassets.net/6jpeaipefazr/1IK5wAJqlrmJiY0lT3PBWq/8842f2311f3ce214296af4f4466a4339/calvet-muscadet.jpg",
+        "details": "This Muscadet from the Loire Valley is a crisp and dry wine with flavors of lemon, green apple, and a mineral-driven finish. It pairs well with shellfish, oysters, or light seafood dishes."
+      },
+      {
+        "id": 40,
+        "name": "Brut Rosé",
+        "year": 2018,
+        "type": "Sparkling",
+        "region": "Marlborough",
+        "country": "New Zealand",
+        "grape_varieties": [
+          "Pinot Noir",
+          "Chardonnay"
+        ],
+        "rating": 4.5,
+        "price": 36.99,
+        "quantity": 7,
+        "image_url": "https://tomswinegoa.com/wp-content/uploads/2020/01/chandon-brut-rose-abv-13-750-ml.jpg",
+        "details": "A refreshing and elegant brut rosé with vibrant acidity. It offers flavors of strawberries, raspberries, and a touch of citrus. Perfect for toasting or pairing with seafood."
+      },
+      {
+        "id": 41,
+        "name": "Chianti Classico",
+        "year": 2017,
+        "type": "Red",
+        "region": "Tuscany",
+        "country": "Italy",
+        "grape_varieties": [
+          "Sangiovese"
+        ],
+        "rating": 4.5,
+        "price": 50,
+        "quantity": 6,
+        "image_url": "https://www.smartdrinks.ro/uploads/products/2020W12/2096-vin-villa-cafaggio-chianti-classico-riserva-basilica-solatio-2-973x1395.png",
+        "details": "Chianti Classico is a renowned red wine from the Chianti region of Tuscany, Italy. It is made primarily from Sangiovese grapes, which contribute to its characteristic flavors of cherries, plums, and spices. Chianti Classico wines are known for their medium body, lively acidity, and food-friendly nature. The 2017 vintage is highly regarded for its approachability and versatility."
+      },
+      {
+        "id": 42,
+        "name": "Pink Blossom",
+        "year": 2021,
+        "type": "Rose",
+        "region": "Willamette Valley",
+        "country": "United States",
+        "grape_varieties": [
+          "Pinot Noir"
+        ],
+        "rating": 4.5,
+        "price": 29.99,
+        "quantity": 5,
+        "image_url": "https://casawine.co.id/uploads/img/product/sababay-pink-blossom-24860.jpg",
+        "details": "Pink Blossom is a captivating rose wine sourced from the picturesque Willamette Valley in the United States. It is crafted from the finest Pinot Noir grapes, showcasing vibrant red fruit flavors, subtle floral notes, and a silky smooth texture. This elegant wine pairs wonderfully with salmon, roasted poultry, and soft cheeses."
+      },
+      {
+        "id": 43,
+        "name": "Sémillon",
+        "year": 2017,
+        "type": "White",
+        "region": "Hunter Valley",
+        "country": "Australia",
+        "grape_varieties": [
+          "Sémillon"
+        ],
+        "rating": 4.5,
+        "price": 29.99,
+        "quantity": 4,
+        "image_url": "https://myowncuvee.com/wp-content/uploads/2016/03/semillon.jpg",
+        "details": "This Sémillon from Hunter Valley is a complex and age-worthy wine with flavors of citrus, honey, and a subtle nuttiness. It pairs well with seafood, poultry, or creamy risotto."
+      },
+      {
+        "id": 44,
+        "name": "Cava Reserva",
+        "year": 2015,
+        "type": "Sparkling",
+        "region": "Penedès",
+        "country": "Spain",
+        "grape_varieties": [
+          "Macabeo",
+          "Xarel·lo",
+          "Parellada"
+        ],
+        "rating": 4.7,
+        "price": 29.99,
+        "quantity": 3,
+        "image_url": "https://www.cava.wine/media/images/Cava_de_Guarda_Superior_Gran_Reserva_botella_w.width-700.png",
+        "details": "A well-balanced and complex Cava with fine bubbles and a creamy texture. It showcases flavors of green apple, pear, and hints of toasted almonds. A great value choice."
+      },
+      {
+        "id": 45,
+        "name": "Barbaresco",
+        "year": 2014,
+        "type": "Red",
+        "region": "Piedmont",
+        "country": "Italy",
+        "grape_varieties": [
+          "Nebbiolo"
+        ],
+        "rating": 4.8,
+        "price": 90,
+        "quantity": 2,
+        "image_url": "https://images.vivino.com/thumbs/LVmJJ4cBREabyoW9fVB1JA_pb_600x600.png",
+        "details": "Barbaresco is a prestigious red wine from the Piedmont region of Italy. It is made exclusively from Nebbiolo grapes, which contribute to its complex and elegant character. Barbaresco wines are known for their aromas of roses, cherries, and spices, with firm tannins and a long aging potential. The 2014 vintage is highly regarded for its balance and finesse."
+      },
+      {
+        "id": 46,
+        "name": "Torrontés",
+        "year": 2021,
+        "type": "White",
+        "region": "Cafayate",
+        "country": "Argentina",
+        "grape_varieties": [
+          "Torrontés"
+        ],
+        "rating": 4.2,
+        "price": 18.99,
+        "quantity": 1,
+        "image_url": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h44/h43/8796457467934.png",
+        "details": "This Torrontés from Cafayate showcases an aromatic profile with floral notes, tropical fruits, and a refreshing acidity. It pairs well with spicy cuisine, ceviche, or sushi."
+      },
+      {
+        "id": 47,
+        "name": "Rosé Royale",
+        "year": 2020,
+        "type": "Rose",
+        "region": "Champagne",
+        "country": "France",
+        "grape_varieties": [
+          "Pinot Noir",
+          "Chardonnay",
+          "Pinot Meunier"
+        ],
+        "rating": 4.9,
+        "price": 89.99,
+        "quantity": 15,
+        "image_url": "https://www.vino45.it/5279-large_default/champagne-brut-royale-reserve-rose-magnum-boxed-philipponnat.jpg",
+        "details": "Rosé Royale is an exquisite Champagne rosé that emanates luxury and elegance. Created from a harmonious blend of Pinot Noir, Chardonnay, and Pinot Meunier, it reveals delicate flavors of red berries, citrus, and brioche. With its fine bubbles and refined palate, this wine is a perfect choice for celebrations and special moments."
+      },
+      {
+        "id": 48,
+        "name": "Priorat",
+        "year": 2015,
+        "type": "Red",
+        "region": "Catalonia",
+        "country": "Spain",
+        "grape_varieties": [
+          "Garnacha",
+          "Carignan"
+        ],
+        "rating": 4.7,
+        "price": 75,
+        "quantity": 14,
+        "image_url": "https://wino.tours/wp-content/uploads/2020/03/cims-de-porrera-classic.jpg",
+        "details": "Priorat is a distinguished red wine from the Catalonia region of Spain. It is primarily made from Garnacha (Grenache) and Carignan grapes, which thrive in the rugged and mineral-rich soils of the area. Priorat wines are known for their intense flavors of black fruits, licorice, and herbs, with a robust structure and long aging potential. The 2015 vintage is highly acclaimed for its power and complexity."
+      },
+      {
+        "id": 49,
+        "name": "English Sparkling",
+        "year": 2017,
+        "type": "Sparkling",
+        "region": "Sussex",
+        "country": "United Kingdom",
+        "grape_varieties": [
+          "Chardonnay",
+          "Pinot Noir"
+        ],
+        "rating": 4.3,
+        "price": 42.99,
+        "quantity": 13,
+        "image_url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1621587890-1621436809-snapshotimagehandler-1848667353.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "details": "An exquisite English sparkling wine with fine bubbles and a crisp acidity. It displays flavors of citrus, green apple, and subtle hints of floral notes. A rising star in the sparkling wine world."
+      },
+      {
+        "id": 50,
+        "name": "Assyrtiko",
+        "year": 2020,
+        "type": "White",
+        "region": "Santorini",
+        "country": "Greece",
+        "grape_varieties": [
+          "Assyrtiko"
+        ],
+        "rating": 4.6,
+        "price": 26.99,
+        "quantity": 12,
+        "image_url": "https://cdn.shopify.com/s/files/1/1997/1819/products/SantoWines-2020-Assyrtiko_2000x.png?v=1672773758",
+        "details": "This Assyrtiko from Santorini is a vibrant and mineral-driven wine with flavors of citrus, stone fruits, and a saline note. It pairs well with seafood, grilled vegetables, or Greek dishes."
+      },
+      {
+        "id": 51,
+        "name": "Amarone della Valpolicella",
+        "year": 2013,
+        "type": "Red",
+        "region": "Veneto",
+        "country": "Italy",
+        "grape_varieties": [
+          "Corvina",
+          "Rondinella",
+          "Molinara"
+        ],
+        "rating": 4.8,
+        "price": 120,
+        "quantity": 11,
+        "image_url": "https://www.tommasi.com/wp-content/uploads/2020/10/AMARONE_CLASSICO.png",
+        "details": "Amarone della Valpolicella is a prestigious red wine from the Veneto region of Italy. It is made from partially dried Corvina, Rondinella, and Molinara grapes, resulting in a rich and concentrated wine. Amarone wines are known for their flavors of dried fruits, chocolate, and spices, with a full-bodied profile and velvety tannins. The 2013 vintage is highly regarded for its opulence and aging potential."
+      },
+      {
+        "id": 52,
+        "name": "Serenity Rosé",
+        "year": 2019,
+        "type": "Rose",
+        "region": "Stellenbosch",
+        "country": "South Africa",
+        "grape_varieties": [
+          "Cabernet Sauvignon",
+          "Merlot"
+        ],
+        "rating": 4.7,
+        "price": 23.5,
+        "quantity": 10,
+        "image_url": "https://static.wixstatic.com/media/6a4ace_dab4a8966e844e52ba55d4c4e421e454~mv2.jpg/v1/fill/w_600,h_800,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6a4ace_dab4a8966e844e52ba55d4c4e421e454~mv2.jpg",
+        "details": "Serenity Rosé is a captivating South African wine hailing from the renowned Stellenbosch region. It is skillfully crafted from a blend of Cabernet Sauvignon and Merlot grapes, offering a delightful combination of red fruit flavors, subtle spice, and a velvety texture. This wine's balanced acidity and lingering finish make it a true delight."
+      },
+      {
+        "id": 53,
+        "name": "Macon-Villages",
+        "year": 2019,
+        "type": "White",
+        "region": "Burgundy",
+        "country": "France",
+        "grape_varieties": [
+          "Chardonnay"
+        ],
+        "rating": 4.4,
+        "price": 20.99,
+        "quantity": 9,
+        "image_url": "https://produits.bienmanger.com/29345-0w600h600_Macon_Villages_Grange_Magnien_White_Wine.jpg",
+        "details": "This Macon-Villages from Burgundy is a classic Chardonnay with flavors of apple, lemon, and a hint of butter. It pairs well with roasted chicken, creamy pasta dishes, or soft cheeses."
+      },
+      {
+        "id": 54,
+        "name": "Seco Frizzante",
+        "year": 2020,
+        "type": "Sparkling",
+        "region": "Veneto",
+        "country": "Italy",
+        "grape_varieties": [
+          "Glera"
+        ],
+        "rating": 4.1,
+        "price": 19.99,
+        "quantity": 8,
+        "image_url": "https://admin.livingliquidz.com/img/MD/SULA-SECO-CLASSIQUE-990.jpg",
+        "details": "A lively and fun frizzante style sparkling wine. It offers flavors of green apple, citrus, and a touch of floral aromas. Perfect for casual gatherings and picnics."
+      },
+      {
+        "id": 55,
+        "name": "Crozes-Hermitage",
+        "year": 2016,
+        "type": "Red",
+        "region": "Rhône Valley",
+        "country": "France",
+        "grape_varieties": [
+          "Syrah"
+        ],
+        "rating": 4.6,
+        "price": 55,
+        "quantity": 7,
+        "image_url": "https://s7e5a.scene7.com/is/image/waitrose/CellarProductDetailMainImage/894221_a_grande-classique-crozes-hermitage-894221",
+        "details": "Crozes-Hermitage is a distinguished red wine from the Rhône Valley in France. It is made primarily from the Syrah grape variety, which lends it a bold and aromatic character. Crozes-Hermitage wines showcase flavors of blackberries, black pepper, and herbs, with medium to full-bodied profiles and balanced tannins. The 2016 vintage is highly regarded for its quality and approachability."
+      },
+      {
+        "id": 56,
+        "name": "Verdejo",
+        "year": 2020,
+        "type": "White",
+        "region": "Rueda",
+        "country": "Spain",
+        "grape_varieties": [
+          "Verdejo"
+        ],
+        "rating": 4.3,
+        "price": 16.99,
+        "quantity": 6,
+        "image_url": "https://www.15bodegas.com/media/catalog/product/b/o/botella-legaris-verdejo.jpg",
+        "details": "This Verdejo from Rueda offers a crisp and aromatic profile, with flavors of citrus, tropical fruits, and a touch of fennel. It pairs well with seafood, salads, or grilled vegetables."
+      },
+      {
+        "id": 57,
+        "name": "Summer Blush",
+        "year": 2022,
+        "type": "Rose",
+        "region": "Marlborough",
+        "country": "New Zealand",
+        "grape_varieties": [
+          "Syrah",
+          "Merlot"
+        ],
+        "rating": 4.3,
+        "price": 17.99,
+        "quantity": 5,
+        "image_url": "https://assets.superliquor.co.nz/thumbs/0004018.png",
+        "details": "Summer Blush is a vibrant and refreshing rose wine from the picturesque Marlborough region of New Zealand. Crafted from a blend of Syrah and Merlot grapes, it showcases flavors of ripe red berries, hints of spice, and a crisp, lively acidity. This wine is perfect for enjoying during summer picnics and casual get-togethers."
+      },
+      {
+        "id": 58,
+        "name": "Brunello di Montalcino",
+        "year": 2012,
+        "type": "Red",
+        "region": "Tuscany",
+        "country": "Italy",
+        "grape_varieties": [
+          "Sangiovese"
+        ],
+        "rating": 4.9,
+        "price": 150,
+        "quantity": 4,
+        "image_url": "https://experiencetheworldofwines.in/wp-content/uploads/2021/08/COL-DORCIA-BRUNELLO-DI-MONTALCINO.jpg",
+        "details": "Brunello di Montalcino is an esteemed red wine from the Montalcino region of Tuscany, Italy. It is made exclusively from Sangiovese grapes, known locally as Brunello. Brunello wines are renowned for their exceptional quality and longevity. They display rich flavors of red fruits, leather, and earth, with firm tannins and a robust structure. The 2012 vintage is highly praised for its depth and complexity."
+      },
+      {
+        "id": 59,
+        "name": "Grillo",
+        "year": 2020,
+        "type": "White",
+        "region": "Sicily",
+        "country": "Italy",
+        "grape_varieties": [
+          "Grillo"
+        ],
+        "rating": 4.5,
+        "price": 23.99,
+        "quantity": 3,
+        "image_url": "https://winesinindia.co.uk/wp-content/uploads/2019/09/Reveilo-Grillo-1.png",
+        "details": "This Grillo from Sicily is a vibrant and aromatic wine with flavors of citrus, peach, and a hint of Mediterranean herbs. It pairs well with seafood, light appetizers, or fresh salads."
+      },
+      {
+        "id": 60,
+        "name": "Carménère",
+        "year": 2017,
+        "type": "Red",
+        "region": "Colchagua Valley",
+        "country": "Chile",
+        "grape_varieties": [
+          "Carménère"
+        ],
+        "rating": 4.7,
+        "price": 45,
+        "quantity": 2,
+        "image_url": "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/4b01cd7b-0c4c-41b0-8c31-ceb4274ccd0d_425x425.jpg",
+        "details": "Carménère is a distinctive red wine variety originally from Bordeaux, now thriving in the Colchagua Valley of Chile. It offers a unique flavor profile with notes of blackberries, green pepper, and spices. Carménère wines are known for their medium to full-bodied nature, moderate tannins, and smooth texture. The 2017 vintage is highly regarded for its vibrant fruit expression and excellent value."
+      },
+      {
+        "id": 61,
+        "name": "Colombard",
+        "year": 2021,
+        "type": "White",
+        "region": "Gascony",
+        "country": "France",
+        "grape_varieties": [
+          "Colombard"
+        ],
+        "rating": 4.2,
+        "price": 14.99,
+        "quantity": 1,
+        "image_url": "https://worldsbestwines.eu/wp-content/uploads/The-Whale-Caller-Sauvignon-Blanccolombard-385x400.jpeg",
+        "details": "This Colombard from Gascony is a crisp and zesty wine with flavors of citrus, green apple, and a touch of tropical fruits. It pairs well with seafood, salads, or light appetizers."
+      },
+      {
+        "id": 62,
+        "name": "Hermitage",
+        "year": 2015,
+        "type": "Red",
+        "region": "Rhône Valley",
+        "country": "France",
+        "grape_varieties": [
+          "Syrah"
+        ],
+        "rating": 4.9,
+        "price": 250,
+        "quantity": 15,
+        "image_url": "https://media.bbr.com/s/bbr/20098006938-ms?img404=Default_Wine",
+        "details": "Hermitage is an iconic red wine from the Rhône Valley in France. It is made exclusively from the Syrah grape variety, grown in the esteemed Hermitage vineyards. Hermitage wines are known for their complexity, elegance, and exceptional aging potential. They showcase flavors of black fruits, violets, and spices, with a powerful and structured profile. The 2015 vintage is highly regarded for its depth and character."
+      },
+      {
+        "id": 63,
+        "name": "Trebbiano",
+        "year": 2019,
+        "type": "White",
+        "region": "Abruzzo",
+        "country": "Italy",
+        "grape_varieties": [
+          "Trebbiano"
+        ],
+        "rating": 4.3,
+        "price": 18.99,
+        "quantity": 14,
+        "image_url": "https://produits.bienmanger.com/35003-0w470h470_Trebbiano_Abruzzo_Doc_Organic_White_Wine_From_Italy.jpg",
+        "details": "This Trebbiano from Abruzzo is a light and crisp wine with flavors of citrus, pear, and a hint of floral notes. It pairs well with seafood, light pasta dishes, or fresh cheeses."
+      },
+      {
+        "id": 64,
+        "name": "Gewürztraminer",
+        "year": 2020,
+        "type": "White",
+        "region": "Alsace",
+        "country": "France",
+        "grape_varieties": [
+          "Gewürztraminer"
+        ],
+        "rating": 4.5,
+        "price": 25.99,
+        "quantity": 13,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUkYtJ2CLFw6C-G4reV0KbwZe36WmKzPH2O5L64auKVoIBFhAEbaa7uUXlyYr2tr4oY&usqp=CAU",
+        "details": "This Gewürztraminer from Alsace is a rich and aromatic wine with flavors of lychee, rose petals, and a hint of spice. It pairs well with spicy cuisine, Asian dishes, or strong cheeses."
+      },
+      {
+        "id": 65,
+        "name": "Picpoul de Pinet",
+        "year": 2021,
+        "type": "White",
+        "region": "Languedoc",
+        "country": "France",
+        "grape_varieties": [
+          "Picpoul"
+        ],
+        "rating": 4.4,
+        "price": 19.99,
+        "quantity": 12,
+        "image_url": "https://media.tanners-wines.co.uk/media/catalog/product/cache/315553dad97819a47858104fe3488849/f/w/fw013_2.jpg",
+        "details": "This Picpoul de Pinet from Languedoc is a lively and refreshing wine with flavors of citrus, green apple, and a saline note. It pairs well with seafood, oysters, or grilled vegetables."
+      },
+      {
+        "id": 66,
+        "name": "Pinot Blanc",
+        "year": 2020,
+        "type": "White",
+        "region": "Alsace",
+        "country": "France",
+        "grape_varieties": [
+          "Pinot Blanc"
+        ],
+        "rating": 4.3,
+        "price": 21.99,
+        "quantity": 11,
+        "image_url": "https://www.vinatis.co.uk/74072-thickbox_default/pinot-blanc-reserve-particuliere-2021-henri-ehrhart.png",
+        "details": "This Pinot Blanc from Alsace is a versatile and medium-bodied wine with flavors of apple, pear, and a touch of almond. It pairs well with seafood, poultry, or creamy pasta dishes."
+      },
+      {
+        "id": 67,
+        "name": "Elegant Wine Glass Set",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "This elegant wine glass set is perfect for wine enthusiasts. It includes four crystal wine glasses, each designed to enhance the aroma and flavor of your favorite wines.",
+        "price": 59.99,
+        "quantity": 5,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9OB1ZxHhtWn5sMOB9hftVBLiGKUMVV7V9A&usqp=CAU"
+      },
+      {
+        "id": 68,
+        "name": "Deluxe Wine Opener Set",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "The deluxe wine opener set is a must-have for any wine lover. It includes a high-quality corkscrew, foil cutter, wine pourer, and wine stopper, all beautifully packaged in a wooden gift box.",
+        "price": 39.99,
+        "quantity": 6,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0B0arNX4rTQYa8xxObnNdvgLwYdJVpVKMJkgqUY-NRYCddTp4plpcHnYcFmkQI2gWeOU&usqp=CAU"
+      },
+      {
+        "id": 69,
+        "name": "Luxury Wine and Glass Set",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "Indulge in the exquisite taste of Les Violettes Cotes du Rhone red wine with this luxury wine and glass set. It includes a 75cl bottle of Les Violettes Cotes du Rhone red wine and a Royal Scot wine glass, elegantly presented in a luxury box.",
+        "price": 79.99,
+        "quantity": 9,
+        "image_url": "https://www.bottledandboxed.com/images/products/les-violettes-cotes-du-rhone-75cl-red-wine-in-luxury-box-with-royal-scot-wine-glass.jpg"
+      },
+      {
+        "id": 70,
+        "name": "Premium Wine Accessory Set",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "The premium wine accessory set has everything you need to enjoy and preserve your favorite wines. It includes a wine aerator, vacuum pump, bottle stoppers, and a wine drip collar, all neatly packed in a sleek gift box.",
+        "price": 49.99,
+        "quantity": 15,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbdVeh7rnJFIGB4Kbzu8wH8stxkNvoI5X-Q&usqp=CAU"
+      },
+      {
+        "id": 71,
+        "name": "Luxurious Wine and Cheese Set",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "Indulge in the ultimate wine and cheese experience with this luxurious set. It includes a bottle of fine red wine and an assortment of gourmet cheeses, elegantly presented in a wooden gift box.",
+        "price": 89.99,
+        "quantity": 3,
+        "image_url": "https://img.grouponcdn.com/deal/3DaRsTT5TGer1TX4NWEMsmNg92BU/3D-700x420/v1/c870x524.jpg"
+      },
+      {
+        "id": 72,
+        "name": "Red Wine Gift Box",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "This exquisite red wine gift box is perfect for wine enthusiasts. It features a bottle of premium red wine beautifully packaged in an elegant box, making it an ideal gift for any occasion.",
+        "price": 34.99,
+        "quantity": 7,
+        "image_url": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_1000/61092_red-wine-gift-box.jpeg"
+      },
+      {
+        "id": 73,
+        "name": "Hearty Bites and Wine Gift Basket",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "Enjoy a delightful combination of hearty bites and wine with this gift basket. It includes a selection of gourmet snacks and a bottle of exquisite wine, beautifully presented in a woven basket.",
+        "price": 79.99,
+        "quantity": 1,
+        "image_url": "https://www.hickoryfarms.com/dw/image/v2/AAOA_PRD/on/demandware.static/-/Sites-Web-Master-Catalog/default/dw3c5ef44b/images/products/hearty-bites-and-wine-gift-basket-002627-m1.jpg?sw=556&sh=680&sm=fit"
+      },
+      {
+        "id": 74,
+        "name": "Premium Wine Gift Set",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "Discover the joy of wine with this premium wine gift set. It includes a curated selection of fine wines, elegantly packaged and ready to be enjoyed or gifted to a wine lover.",
+        "price": 129.99,
+        "quantity": 5,
+        "image_url": "https://www.winebaskets.com/global/winebaskets/images/Category_Header_WineGiftSets.png"
+      },
+      {
+        "id": 75,
+        "name": "90-Point Red Wine Trio Gift Basket",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "Experience the flavors of exceptional red wines with this 90-point red wine trio gift basket. It features three outstanding red wines, accompanied by gourmet treats, all elegantly presented in a vintage-styled gift basket.",
+        "price": 99.99,
+        "quantity": 13,
+        "image_url": "https://www.foodandwine.com/thmb/q5w79J6hYjVbsUNagAtL5yC6JcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/90-point-red-wine-trio-vintage-styled-gift-basket-3ce86f157cfe47ccb093aa3ab87020c1.jpg"
+      },
+      {
+        "id": 76,
+        "name": "All Occasions Wine Gift Set",
+        "type": "Sets and Gifts",
+        "year": 2023,
+  
+        "region": "",
+        "country": "",
+        "rating": 5,
+        "details": "Celebrate all occasions with this versatile wine gift set. It includes a curated selection of fine wines from various regions, carefully chosen to suit different palates and preferences.",
+        "price": 89.99,
+        "quantity": 11,
+        "image_url": "https://www.hickoryfarms.com/on/demandware.static/-/Sites-HickoryFarms-Library/default/dwf19b1cde/images/wpBlog/gift-guides/wine-gift-ideas-all-occasions-blog-1.jpg"
+      }
+    ]
+  }
